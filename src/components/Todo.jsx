@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import "./styles.css";
+import "../styles.css";
 import add_icon  from "../assets/add_icon.png"
 import TodoItems from './TodoItems';
 const Todo = () => {
